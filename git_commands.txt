@@ -38,6 +38,10 @@ git add -A (Stages All)
 git add .  (stages new and modified, without deleted)
 git add -u (stages modified and deleted, without new)
 
+* git clone {{Path SSH(git@github.com:alok722/namaste-javascript-notes.git)}}
+
+
+
 
 
 
