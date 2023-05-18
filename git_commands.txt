@@ -40,8 +40,21 @@ git add -u (stages modified and deleted, without new)
 
 * git clone {{Path SSH(git@github.com:alok722/namaste-javascript-notes.git)}}
 
+* touch .gitignore (use to create files)
 
+* notepad filess.txt (use to open files using command)
 
+git branch (to see branches avail)
+
+git branch {{branch-name(login)}}  (Create new branch)
+
+git checkout {{branch-name(login)}}	(Switch to branch)
+
+git merge {{branch-name(login)}} (Merge existing branch to main)
+
+git branch -d {{branch-name(login)}} (Delete branch from local)
+
+git push origin --delete {{branch-name(login)}} (Delete branch from github)
 
 
 
