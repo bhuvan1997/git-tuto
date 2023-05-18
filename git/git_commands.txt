@@ -1,0 +1,40 @@
+Git Version (Check git version)
+	git --version
+
+Git Status (Check whats the status)
+	git status
+
+Git Init (It is used to make a repository git)	
+	git init
+
+Git add . (used to transfer files from untrack to track)
+	git add .
+
+Git Commit
+	git commit -m "{{message ("Version 1)}}"
+
+Git email & username
+	git config --global user.email "you@example.com"
+  	git config --global user.name "Your Name"
+
+Git Push (Push Code to github)
+	git push -u origin main
+
+Git Pull (Pull Changes)
+	git pull origin main
+
+Git diff {{filename}} (You can see difference between what you changes)
+	git diff utils.txt
+
+* git diff --staged utils.txt (if you add and want to see what last change you done)
+
+* git reset utils.txt (Unchanged or reset changes)
+
+* git checkout utils.txt (use with reset command)
+
+* git checkout . (changes in all files you saved last)
+
+
+
+
+
