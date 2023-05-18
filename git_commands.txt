@@ -34,6 +34,12 @@ Git diff {{filename}} (You can see difference between what you changes)
 
 * git checkout . (changes in all files you saved last)
 
+git add -A (Stages All)
+git add .  (stages new and modified, without deleted)
+git add -u (stages modified and deleted, without new)
+
+
+
 
 
 
